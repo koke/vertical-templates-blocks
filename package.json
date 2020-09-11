@@ -5,6 +5,6 @@
   "main": "index.js",
   "dependencies": {
     "@wordpress/block-serialization-default-parser": "^3.2.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
